@@ -5,4 +5,3 @@
 - 💬 Ask me about technology, programming and sound engineering.
 - 📫 How to reach me: LinkedIn @aryanchaudhary22005
 - ⚡ Mastering web development, sound engineering, and creative media design.
--->
